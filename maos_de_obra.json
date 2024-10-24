@@ -1,0 +1,34 @@
+[
+    {
+      "Nome": "Operador de Linha",
+      "Custo_Hora": 15.0
+    },
+    {
+      "Nome": "Supervisor",
+      "Custo_Hora": 25.0
+    },
+    {
+      "Nome": "Técnico de Manutenção",
+      "Custo_Hora": 30.0
+    },
+    {
+      "Nome": "Embalador",
+      "Custo_Hora": 14.0
+    },
+    {
+      "Nome": "Gerente de Produção",
+      "Custo_Hora": 40.0
+    },
+    {
+      "Nome": "Analista de Qualidade",
+      "Custo_Hora": 28.0
+    },
+    {
+      "Nome": "Operador de Empilhadeira",
+      "Custo_Hora": 18.0
+    },
+    {
+      "Nome": "Auxiliar de Limpeza",
+      "Custo_Hora": 12.0
+    }
+  ]

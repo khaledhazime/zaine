@@ -1,0 +1,74 @@
+[
+    {
+      "Nome": "Tomate Fresco",
+      "Custo_Unidade": 2.0
+    },
+    {
+      "Nome": "Sal",
+      "Custo_Unidade": 0.5
+    },
+    {
+      "Nome": "Açúcar",
+      "Custo_Unidade": 0.4
+    },
+    {
+      "Nome": "Conservante",
+      "Custo_Unidade": 1.0
+    },
+    {
+      "Nome": "Ervas Aromáticas",
+      "Custo_Unidade": 1.5
+    },
+    {
+      "Nome": "Embalagem Plástica",
+      "Custo_Unidade": 0.8
+    },
+    {
+      "Nome": "Embalagem de Vidro",
+      "Custo_Unidade": 1.2
+    },
+    {
+      "Nome": "Rótulo",
+      "Custo_Unidade": 0.2
+    },
+    {
+      "Nome": "Óleo Vegetal",
+      "Custo_Unidade": 1.0
+    },
+    {
+      "Nome": "Cebola",
+      "Custo_Unidade": 1.0
+    },
+    {
+      "Nome": "Alho",
+      "Custo_Unidade": 0.6
+    },
+    {
+      "Nome": "Vinagre",
+      "Custo_Unidade": 0.7
+    },
+    {
+      "Nome": "Pimenta",
+      "Custo_Unidade": 1.0
+    },
+    {
+      "Nome": "Cogumelos",
+      "Custo_Unidade": 2.5
+    },
+    {
+      "Nome": "Tomate Fresco Orgânico",
+      "Custo_Unidade": 3.0
+    },
+    {
+      "Nome": "Sal Orgânico",
+      "Custo_Unidade": 0.7
+    },
+    {
+      "Nome": "Açúcar Orgânico",
+      "Custo_Unidade": 0.6
+    },
+    {
+      "Nome": "Conservante Natural",
+      "Custo_Unidade": 1.5
+    }
+  ]

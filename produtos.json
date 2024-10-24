@@ -1,0 +1,42 @@
+[
+    {
+      "Nome": "Molho de Tomate Tradicional",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.0, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.5}",
+      "Materias_Primas": "{\"Tomate Fresco\": 10.0, \"Sal\": 0.2, \"Açúcar\": 0.1, \"Conservante\": 0.05, \"Embalagem Plástica\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate com Manjericão",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.0, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.5}",
+      "Materias_Primas": "{\"Tomate Fresco\": 10.0, \"Sal\": 0.2, \"Açúcar\": 0.1, \"Ervas Aromáticas\": 0.3, \"Conservante\": 0.05, \"Embalagem Plástica\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate Picante",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.0, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.5}",
+      "Materias_Primas": "{\"Tomate Fresco\": 10.0, \"Sal\": 0.2, \"Pimenta\": 0.3, \"Conservante\": 0.05, \"Embalagem Plástica\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate Orgânico",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.5, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.7}",
+      "Materias_Primas": "{\"Tomate Fresco Orgânico\": 10.0, \"Sal Orgânico\": 0.2, \"Açúcar Orgânico\": 0.1, \"Conservante Natural\": 0.05, \"Embalagem de Vidro\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate com Cogumelos",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.5, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.5}",
+      "Materias_Primas": "{\"Tomate Fresco\": 9.0, \"Cogumelos\": 1.5, \"Sal\": 0.2, \"Conservante\": 0.05, \"Embalagem Plástica\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate com Alho e Cebola",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.0, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.5}",
+      "Materias_Primas": "{\"Tomate Fresco\": 10.0, \"Cebola\": 0.5, \"Alho\": 0.2, \"Sal\": 0.2, \"Conservante\": 0.05, \"Embalagem Plástica\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate com Azeitonas",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.2, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.5}",
+      "Materias_Primas": "{\"Tomate Fresco\": 9.5, \"Azeitonas\": 1.0, \"Sal\": 0.2, \"Ervas Aromáticas\": 0.2, \"Conservante\": 0.05, \"Embalagem de Vidro\": 1.0, \"Rótulo\": 1.0}"
+    },
+    {
+      "Nome": "Molho de Tomate com Vinagre Balsâmico",
+      "Maos_de_Obra": "{\"Operador de Linha\": 2.3, \"Embalador\": 1.0, \"Analista de Qualidade\": 0.6}",
+      "Materias_Primas": "{\"Tomate Fresco\": 10.0, \"Vinagre\": 0.3, \"Sal\": 0.2, \"Açúcar\": 0.1, \"Conservante\": 0.05, \"Embalagem de Vidro\": 1.0, \"Rótulo\": 1.0}"
+    }
+  ]
